@@ -1,0 +1,51 @@
+.section2
+{
+    min-height: 100vh;
+    overflow: hidden;
+    background-image: url("https://images.unsplash.com/photo-1549834134-23823f7fa49b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzMTE0NDgyMg&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Section_two
+{
+    background-color: #050517 ;
+    min-height: 40vh;
+    min-width: 60vw;
+    color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.Section_two h1{
+    font-size: 4rem;
+    background: -webkit-linear-gradient(#FBCAEF, #F865B0, #E637BF, #D90368);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Section_two button{
+    padding: 20px;
+    padding-inline: 40px;
+    margin: 1vw;
+    border: 1px solid #D90368;
+    background-color: transparent;
+    border-radius: 10px;
+    color: #D90368;
+    font-size: 1rem;
+    
+}
+.Section_two button:hover{
+    background-color: #D90368;
+    color: #050517;
+    box-shadow: rgba(34, 34, 33, 0.3) 0px 7px 29px 0px;
+}
+.Section_two p{
+    font-size: 1.5rem;
+    text-align: center;
+}

@@ -1,0 +1,74 @@
+.section5
+{
+    min-height: 100vh;
+    overflow: hidden;
+    background-image: url("https://images.unsplash.com/photo-1528459709161-157d86910939?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxfDB8MXxhbGx8fHx8fHx8fA&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Section_five
+{
+    background-color: #050517 ;
+    padding-right: 3vw;
+    min-height: 100vh;
+    min-width: 70vw;
+    color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    
+}
+.Section_five .content
+{
+    align-items: center;
+    text-align: center;
+}
+.Section_five .content p{
+    margin-top: 2vh;
+    margin-bottom: 8px;
+    font-size: 1.25rem;
+}
+.Section_five .content hr{
+    background-color: #D90368;
+    border: solid #D90368;
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+.Section_five h1{
+    font-size: 4rem;
+    background: -webkit-linear-gradient(#FBCAEF, #F865B0, #E637BF, #D90368);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Section_five button{
+    padding: 20px;
+    padding-inline: 40px;
+    margin: 1vw;
+    border: 1px solid #D90368;
+    background-color: transparent;
+    border-radius: 10px;
+    color: #D90368;
+    font-size: 1rem;
+    
+}
+.Section_five button:hover{
+    background-color: #D90368;
+    color: #050517;
+    box-shadow: rgba(34, 34, 33, 0.3) 0px 7px 29px 0px;
+}
+.Section_five .start
+{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
