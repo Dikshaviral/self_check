@@ -3,8 +3,9 @@ This Application is a project aiming to provide an efficient and easy way to gui
 ## Why is self checking important?
 Performing a monthly breast self-exam will help you maintain breast health and detect early signs of disease. 
 ## How to run this application-:
-1- Clone the repository
-2- Run npm install
-3- Run npm start
-  
+1- Clone the repository.
+2- Run npm install.
+3- Run npm start.
+
+### Live site url - https://breast-cancer-self-examination.herokuapp.com/
 
